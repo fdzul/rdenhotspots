@@ -6,15 +6,15 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-***denhotspots*** is package development by department of prevention and
-control of vector-borne diseases of the [Secretary of Health of
+***rdenhotspots*** is package development by department of prevention
+and control of vector-borne diseases of the [Secretary of Health of
 Veracruz](https://www.ssaver.gob.mx/) with colaboration of the national
 dengue prevention and control program of the
 [CENAPRECE](https://www.gob.mx/salud/cenaprece) and entomology
 laboratory of
 [INDRE](https://www.gob.mx/salud/acciones-y-programas/instituto-de-diagnostico-y-referencia-epidemiologicos-indre)\*
 
-The goal of ***denhotspots*** is to carry out a spatial analysis of
+The goal of ***rdenhotspots*** is to carry out a spatial analysis of
 dengue:
 
 1)  hotspots analysis with getis & ord statistics
@@ -33,14 +33,14 @@ You can install the development version of denhotspots from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("fdzul/denhotspots")
+devtools::install_github("fdzul/rdenhotspots")
 ```
 
 or
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("fdzul/denhotspots")
+remotes::install_github("fdzul/rdenhotspots")
 ```
 
 ## Authors
@@ -57,7 +57,7 @@ remotes::install_github("fdzul/denhotspots")
 -   **Fabian Correa Morales** -
 
 See also the list of
-[contributors](https://github.com/fdzul/deneggs/contributors) who
+[contributors](https://github.com/fdzul/rdenhotspots/contributors) who
 participated in this project.
 
 ## License
@@ -67,13 +67,15 @@ This project is licensed under the MIT License - see the
 
 ## Inspiration
 
-The package was inspired by the need to contribute to generate health
-diagnoses at the state, municipality and local level.
+The package was inspired by the need to contribute to public policies
+and decision-making of the Program for the Prevention and Control of
+Arboviruses in Mexico, specifically in the analysis spatial of dengue
+(cases and abundance of mosquitoes).
 
 ## Getting help
 
 If you encounter a clear bug, please file a minimal reproducible example
-on [github](https://github.com/fdzul/denhotspots/issues). For questions
+on [github](https://github.com/fdzul/rdenhotspots/issues). For questions
 and other discussion, please feel free to contact me
 (<felipe.dzul.m@gmail.com>)
 
