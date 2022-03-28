@@ -1,4 +1,4 @@
-Package: denhotspots
+Package: rdenhotspots
 Type: Package
 Title: a package for calculate gi and hi local spatial statistics
 Version: 0.1.0
