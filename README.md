@@ -12,7 +12,7 @@ Veracruz](https://www.ssaver.gob.mx/) with colaboration of the national
 dengue prevention and control program of the
 [CENAPRECE](https://www.gob.mx/salud/cenaprece) and entomology
 laboratory of
-[INDRE](https://www.gob.mx/salud/acciones-y-programas/instituto-de-diagnostico-y-referencia-epidemiologicos-indre)\*
+[INDRE](https://www.gob.mx/salud/acciones-y-programas/instituto-de-diagnostico-y-referencia-epidemiologicos-indre).
 
 The goal of ***rdenhotspots*** is to carry out a spatial analysis of
 dengue:
