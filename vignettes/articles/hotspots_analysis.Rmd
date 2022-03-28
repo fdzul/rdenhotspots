@@ -12,3 +12,6 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(rdenhotspots)
 ```
+
+
+Para realizar los hotspots de la transmision de dengue, primero se sube la base de datos geocodificadas, acto seguido se extrae el area urbana de la localidad de interes, acontinuación se cuenta el número de casos por cada polígono. Con los casos por pologon, se calcula el estadistico espacial Getis & Ord
