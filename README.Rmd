@@ -24,7 +24,7 @@ The goal of ***rdenhotspots*** is to carry out a spatial analysis of dengue:
 
 1) hotspots analysis with getis & ord statistics ($G^*$).
 
-2) Space-time analysis with scan statistics
+2) Space-time analysis with scan statistics.
 
 3) Space-time analysis with knox test.
 

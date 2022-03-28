@@ -20,7 +20,7 @@ dengue:
 1)  hotspots analysis with getis & ord statistics
     (![G^\*](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;G%5E%2A "G^*")).
 
-2)  Space-time analysis with scan statistics
+2)  Space-time analysis with scan statistics.
 
 3)  Space-time analysis with knox test.
 
