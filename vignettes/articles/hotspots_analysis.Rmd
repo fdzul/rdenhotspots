@@ -14,4 +14,4 @@ library(rdenhotspots)
 ```
 
 
-Para realizar los hotspots de la transmision de dengue, primero se sube la base de datos geocodificadas, acto seguido se extrae el area urbana de la localidad de interes, acontinuación se cuenta el número de casos por cada polígono. Con los casos por pologon, se calcula el estadistico espacial Getis & Ord
+Para realizar los hotspots de la transmision de dengue, primero se sube la base de datos geocodificadas, acto seguido se extrae el área urbana de la localidad de interes, acontinuación se cuenta el número de casos por cada polígono. Con los casos por poligono, se cálcula el estadístico espacial Getis & Ord
